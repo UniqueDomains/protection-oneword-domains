@@ -74,11 +74,11 @@ print(df.head())
 | AOL.protection        | premium   | —         | —             | 86             | 85     | 3      | —         |
 | seventeen.protection  | available | $2,950    | —             | 84             | 62     | 9      | namecheap |
 | ally.protection       | premium   | —         | —             | 68             | 85     | 4      | —         |
-| free.protection       | available | $2,950    | —             | 88             | 59     | 4      | namecheap |
-| swift.protection      | premium   | —         | —             | 68             | 85     | 5      | —         |
 | cloud.protection      | available | $2,950    | —             | 70             | 59     | 5      | namecheap |
-| chase.protection      | premium   | —         | —             | 66             | 85     | 5      | —         |
+| swift.protection      | premium   | —         | —             | 68             | 85     | 5      | —         |
 | ace.protection        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
+| chase.protection      | premium   | —         | —             | 66             | 85     | 5      | —         |
+| free.protection       | available | $2,950    | —             | 88             | 57     | 4      | namecheap |
 | Nokia.protection      | premium   | —         | —             | 88             | 84     | 5      | —         |
 | live.protection       | available | $2,950    | —             | 108            | 56     | 4      | namecheap |
 | sheraton.protection   | premium   | —         | —             | 52             | 84     | 8      | —         |
