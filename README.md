@@ -75,15 +75,15 @@ print(df.head())
 | stories.protection   | available | $2,950    | —             | 58             | 36     | 7      | namecheap |
 | spectra.protection   | available | $2,950    | —             | 62             | 34     | 7      | namecheap |
 | Cats.protection      | available | $2,950    | —             | 59             | 33     | 4      | namecheap |
-| partners.protection  | available | $2,950    | —             | 61             | 32     | 8      | namecheap |
 | trends.protection    | available | $2,950    | —             | 60             | 32     | 6      | namecheap |
 | William.protection   | available | $2,950    | —             | 74             | 31     | 7      | namecheap |
+| partners.protection  | available | $2,950    | —             | 61             | 31     | 8      | namecheap |
 | letsgo.protection    | available | $2,950    | —             | 57             | 31     | 7      | namecheap |
 | maps.protection      | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
+| gods.protection      | available | $2,950    | —             | 72             | 29     | 4      | namecheap |
 | heroes.protection    | available | $2,950    | —             | 68             | 29     | 6      | namecheap |
 | blocks.protection    | available | $2,950    | —             | 53             | 29     | 6      | namecheap |
 | cams.protection      | available | $1,999.99 | $2,049.99     | 52             | 29     | 4      | namesilo  |
-| photos.protection    | available | $2,950    | —             | 54             | 28     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
